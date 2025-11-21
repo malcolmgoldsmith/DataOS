@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/graphql",
-      "destination": "https://dataos.naea1.uds-dev.lenovo.com/lens2/api/public:udc-sm/v2/graphql"
+      "destination": "https://dataos.naea1.uds-dev.lenovo.com/lens2/api/public%3Audc-sm/v2/graphql"
     }
   ]
 }
